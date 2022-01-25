@@ -1,0 +1,114 @@
+* {margin: 0%;}
+#mainHeader{
+    text-align: center;
+    font-weight: bold;
+    font-size: x-large;
+    background-image: url('background.jpg') ;
+    background-size: 100%;
+    color: white;
+    padding: 150px;
+    background-repeat: no-repeat;
+    height: 200px;
+}
+
+.button {
+    background-color: black;
+    color: white;
+    border: white solid ;
+    padding: 20px 40px;
+    text-align: center;
+    
+}
+
+
+
+#heading{
+    text-align: center;
+    padding: 20px;
+
+}
+#mainbody{
+    text-decoration: solid;
+    font-size: large;
+    padding-left: 10px;
+    padding-right: 10px;
+
+
+}
+.test{
+    display: flex;
+    height: 800px;
+
+
+}    
+
+.test2{
+    width: 33.3%;
+    border: grey solid 15px;
+    padding: 10px;
+    text-align: center;
+
+}
+.test2 h1{
+    padding: 2em;
+    text-align: center;
+    font: xx-large verdana;
+    font-weight: bold;
+}
+.lower-middle h1{
+    padding: 2em;
+    text-align: center;
+    font-weight: bolder;
+    font-style: normal;
+
+}
+.lower-middle{
+    text-align: center;
+    font-style: italic;
+    padding: 15px;
+
+}
+.test3{
+    display: flex;
+    height: 250px;
+}
+#feedback{
+    padding: 15px;
+    width: 50%;
+    background-color: blue;
+    color: white;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+
+}
+
+#feedback h1{
+    padding: 20px;
+}
+#about{
+    text-align: center;
+    padding: 15px;
+    width: 50%;
+    background-color: black;
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#about h1{
+    padding: 20px;
+}
+
+.last{
+    display: flex;
+    height: 75px;
+    
+}
+.last1{
+    background-color: black;
+    color: white;
+    width: 50%;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    font-size: x-large;
+    padding: 15px;
+}
