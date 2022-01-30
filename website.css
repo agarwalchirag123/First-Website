@@ -19,7 +19,9 @@
     text-align: center;
     
 }
-
+.button:hover{
+    background-color: gray;
+}
 
 
 #heading{
@@ -30,15 +32,18 @@
 #mainbody{
     text-decoration: solid;
     font-size: large;
-    padding-left: 10px;
+    padding-left: 170px;
     padding-right: 10px;
+    text-align: justify;
+    width: 80%;
+    
 
 
 }
 .test{
     display: flex;
     height: 800px;
-
+    
 
 }    
 
@@ -46,7 +51,7 @@
     width: 33.3%;
     border: grey solid 15px;
     padding: 10px;
-    text-align: center;
+    text-align:justify;
 
 }
 .test2 h1{
@@ -56,16 +61,19 @@
     font-weight: bold;
 }
 .lower-middle h1{
-    padding: 2em;
+    padding: 1em;
     text-align: center;
     font-weight: bolder;
     font-style: normal;
 
 }
 .lower-middle{
+   
     text-align: center;
     font-style: italic;
-    padding: 15px;
+    padding-left: 350px;
+    width: 50%;
+    justify-content: center;
 
 }
 .test3{
